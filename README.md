@@ -27,9 +27,17 @@ flask_todo_app/
   ├─ login.html   
   └─ register.html   
 
-Screenshots
+ Screenshots
 
-[screenshots/loginpage.png]   
-[screenshots/registerpage.png]   
-[screenshots/taskpage1.png]   
-[screenshots/taskpage2.png]   
+Login Page
+![Login Page](screenshots/loginpage.png)
+
+Register Page
+![Register Page](screenshots/registerpage.png)
+
+Task Page (View 1)
+![Task Page 1](screenshots/taskpage1.png)
+
+Task Page (View 2)
+![Task Page 2](screenshots/taskpage2.png)
+
